@@ -39,7 +39,7 @@ Information about restrictions imposed on access to a resource.
 Statement in collection: Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
 
 
-
-
 ## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Colorado Shakespeare Festival Records](https://archives.colorado.edu/repositories/2/resources/714).
+
 ## Notes
