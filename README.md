@@ -15,7 +15,7 @@ Title derived from original captions on the work by the creator. If the original
 ### Name
 Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: [Colorado Shakespeare Festival, publisher](http://id.loc.gov/authorities/names/n80014177);  
 ### Subject Topic
-A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: [Shakespeare, William, 1564-1616 -- Dramatic production](http://id.loc.gov/authorities/subjects/sh85120938); [Drama festivals -- Colorado](http://id.loc.gov/authorities/subjects/sh85039336)
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: [Shakespeare, William, 1564-1616 -- Dramatic production](http://id.loc.gov/authorities/subjects/sh85120938); [Drama festivals](http://id.loc.gov/authorities/subjects/sh85039336)
 ### Description
 Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Contributor
