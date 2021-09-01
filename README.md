@@ -36,7 +36,7 @@ Geographic location(s) relevant to the item. Some coverage terms used in the col
 ### Rights
 Information about restrictions imposed on access to a resource.
 
-Statement in collection: Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). http://rightsstatements.org/vocab/InC/1.0/
 
 
 ## Resources
